@@ -481,3 +481,11 @@ ERROR - 2013-08-06 03:10:36 --> 404 Page Not Found --> img
 ERROR - 2013-08-06 03:11:24 --> 404 Page Not Found --> img
 ERROR - 2013-08-06 03:11:24 --> 404 Page Not Found --> img
 ERROR - 2013-08-06 03:11:30 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 22:29:04 --> Severity: Warning  --> Missing argument 1 for show_error(), called in C:\xampp\htdocs\project\rpta_project\application\controllers\rpta.php on line 38 and defined C:\xampp\htdocs\project\rpta_project\system\core\Common.php 306
+ERROR - 2013-08-06 22:29:04 --> Severity: Notice  --> Undefined variable: message C:\xampp\htdocs\project\rpta_project\system\core\Common.php 309
+ERROR - 2013-08-06 22:29:38 --> Severity: Warning  --> Missing argument 1 for show_error(), called in C:\xampp\htdocs\project\rpta_project\application\controllers\rpta.php on line 38 and defined C:\xampp\htdocs\project\rpta_project\system\core\Common.php 306
+ERROR - 2013-08-06 22:29:38 --> Severity: Notice  --> Undefined variable: message C:\xampp\htdocs\project\rpta_project\system\core\Common.php 309
+ERROR - 2013-08-06 22:30:23 --> Severity: Warning  --> Missing argument 1 for show_error(), called in C:\xampp\htdocs\project\rpta_project\application\controllers\rpta.php on line 38 and defined C:\xampp\htdocs\project\rpta_project\system\core\Common.php 306
+ERROR - 2013-08-06 22:30:23 --> Severity: Notice  --> Undefined variable: message C:\xampp\htdocs\project\rpta_project\system\core\Common.php 309
+ERROR - 2013-08-06 22:30:41 --> Severity: Warning  --> Missing argument 1 for show_error(), called in C:\xampp\htdocs\project\rpta_project\application\controllers\rpta.php on line 38 and defined C:\xampp\htdocs\project\rpta_project\system\core\Common.php 306
+ERROR - 2013-08-06 22:30:41 --> Severity: Notice  --> Undefined variable: message C:\xampp\htdocs\project\rpta_project\system\core\Common.php 309
