@@ -489,3 +489,45 @@ ERROR - 2013-08-06 22:30:23 --> Severity: Warning  --> Missing argument 1 for sh
 ERROR - 2013-08-06 22:30:23 --> Severity: Notice  --> Undefined variable: message C:\xampp\htdocs\project\rpta_project\system\core\Common.php 309
 ERROR - 2013-08-06 22:30:41 --> Severity: Warning  --> Missing argument 1 for show_error(), called in C:\xampp\htdocs\project\rpta_project\application\controllers\rpta.php on line 38 and defined C:\xampp\htdocs\project\rpta_project\system\core\Common.php 306
 ERROR - 2013-08-06 22:30:41 --> Severity: Notice  --> Undefined variable: message C:\xampp\htdocs\project\rpta_project\system\core\Common.php 309
+ERROR - 2013-08-06 23:07:59 --> Severity: Warning  --> Missing argument 1 for show_error(), called in C:\xampp\htdocs\project\application\controllers\rpta.php on line 38 and defined C:\xampp\htdocs\project\system\core\Common.php 306
+ERROR - 2013-08-06 23:07:59 --> Severity: Notice  --> Undefined variable: message C:\xampp\htdocs\project\system\core\Common.php 309
+ERROR - 2013-08-06 23:08:02 --> Severity: Warning  --> Missing argument 1 for show_error(), called in C:\xampp\htdocs\project\application\controllers\rpta.php on line 38 and defined C:\xampp\htdocs\project\system\core\Common.php 306
+ERROR - 2013-08-06 23:08:02 --> Severity: Notice  --> Undefined variable: message C:\xampp\htdocs\project\system\core\Common.php 309
+ERROR - 2013-08-06 23:08:05 --> Severity: Warning  --> Missing argument 1 for show_error(), called in C:\xampp\htdocs\project\application\controllers\rpta.php on line 38 and defined C:\xampp\htdocs\project\system\core\Common.php 306
+ERROR - 2013-08-06 23:08:05 --> Severity: Notice  --> Undefined variable: message C:\xampp\htdocs\project\system\core\Common.php 309
+ERROR - 2013-08-06 23:08:07 --> Severity: Notice  --> Undefined property: stdClass::$logo_image C:\xampp\htdocs\project\application\views\loginview.php 4
+ERROR - 2013-08-06 23:08:08 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:08:08 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:08:57 --> Severity: Warning  --> Missing argument 1 for show_error(), called in C:\xampp\htdocs\project\application\controllers\rpta.php on line 38 and defined C:\xampp\htdocs\project\system\core\Common.php 306
+ERROR - 2013-08-06 23:08:57 --> Severity: Notice  --> Undefined variable: message C:\xampp\htdocs\project\system\core\Common.php 309
+ERROR - 2013-08-06 23:13:11 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:13:16 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:13:26 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:13:28 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:13:34 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:13:34 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:13:37 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:13:40 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:13:43 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:13:47 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:13:47 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:13:52 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:13:55 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:45:14 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:45:15 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:45:21 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:45:25 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:45:25 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:45:33 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:48:09 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:48:10 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:48:27 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:48:31 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:48:34 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:48:38 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:48:47 --> 404 Page Not Found --> jalajala
+ERROR - 2013-08-06 23:48:49 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:48:53 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:48:53 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:48:55 --> 404 Page Not Found --> img
+ERROR - 2013-08-06 23:48:57 --> 404 Page Not Found --> img
