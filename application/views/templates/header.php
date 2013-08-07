@@ -1,0 +1,1 @@
+<div class = "span8 offset2" style = "background:transparent url(<?php echo base_url();?>img/bg_shadow.png) repeat-y; margin:0 auto; padding:0">
