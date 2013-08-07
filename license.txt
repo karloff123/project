@@ -7,17 +7,4 @@ COSPLAY.. :)
 git init
 git add --all
 
-
-T
-A
-R
-A
-
-N
-A
-
-K
-A
-S
-I
-!
+NO!
