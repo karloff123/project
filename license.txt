@@ -3,3 +3,6 @@ All rights reserved.
 
 
 hahahahah!!!
+
+git init
+git add --all
